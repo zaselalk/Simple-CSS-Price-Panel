@@ -1,1 +1,1 @@
-# Simple-CSS-Price-Panel
+# simple and responsive CSS price panel
